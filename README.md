@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a software engineer student at 1337
+I'm a software engineering student at 1337 Coding School, part of the global 42 Network in Ben Guerir, Morocco. The school's peer-to-peer model taught me to learn fast, think independently, and ship code that works under pressure.
+
+My roots are in C and C++ — building shells, HTTP servers, and understanding systems at the lowest level. That foundation now fuels my work in backend engineering, where I design high-concurrency services with Node.js, PostgreSQL, and message queues that handle real-world scale.
+
+
 
 
 ## 🌐 Socials:
